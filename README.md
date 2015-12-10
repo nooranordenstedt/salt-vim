@@ -1,0 +1,2 @@
+# salt-vim
+Salt vim
